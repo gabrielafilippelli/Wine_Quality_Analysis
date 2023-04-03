@@ -1,11 +1,11 @@
-<h1 align="center">Wine Quality Exploritory Analysis with Python and Pandas: Data Analysis Project </h1>
+# Wine Quality Exploritory Analysis with Python and Pandas: Data Analysis Project
 - Download Link : https://archive.ics.uci.edu/ml/datasets/wine+quality
 - Citation : Paulo Cortez, António Cerdeira, Fernando Almeida, Telmo Matos, José Reis, Modeling wine preferences by data mining from physicochemical properties, Decision Support Systems, Volume 47, Issue 4, 2009, Pages 547-553, ISSN 0167-9236, https://doi.org/10.1016/j.dss.2009.05.016.
- # What Questions Can We Try to Answer?
+ ## What Questions Can We Try to Answer?
 - Which factor or combination of factors affect the quality of Red Wine/White Wine?
 - Do the different types of wines (red or white) have different factors affecting quality?
 - Is there any interesting trends that exist in other columns besides Quality?
-# Columns Description
+## Columns Description
 - **Fixed Acidity**: Amount of Tartaric Acid in wine, measured in g/dm3
 - **Volatile Acidity**: Amount of Acetic Acid in wine, measured in g/dm3
 - **Citric Acid**: Amount of citric acid in wine in g/dm3. Contributes to crispness of wine
