@@ -2,7 +2,7 @@
 - Download Link : https://archive.ics.uci.edu/ml/datasets/wine+quality
 - Citation : Paulo Cortez, António Cerdeira, Fernando Almeida, Telmo Matos, José Reis, Modeling wine preferences by data mining from physicochemical properties, Decision Support Systems, Volume 47, Issue 4, 2009, Pages 547-553, ISSN 0167-9236, https://doi.org/10.1016/j.dss.2009.05.016.
 ## Overview
-With a dataset containing 6820 movies (220 movies per year, 1986-2016). I looked at which variables effect the gross revenue from movies. I used Python Notebook to clean and visualize the data, and correlate the various attributes in films across multiple genres.
+Utilizied two datasets that are related to red and white vinho verde wine samples, from the north of Portugal. I used Python Notebook to clean and visualize the data. Analyzed which factor or combination of factors affects the quality of Red Wine/White Wine, whether the different types have different factors effecting quality, and gathering trends within the datasets.
 
 ## Code Used
 Python Version: 3.8
