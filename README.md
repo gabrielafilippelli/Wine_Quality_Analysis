@@ -8,14 +8,25 @@
 # Columns Description
 
 Fixed Acidity : Amount of Tartaric Acid in wine, measured in g/dm3
+
 Volatile Acidity : Amount of Acetic Acid in wine, measured in g/dm3
-Citric Acid : Amount of citric acid in wine in g/dm3. Contributes to crispness of wine.
+
+Citric Acid : Amount of citric acid in wine in g/dm3. Contributes to crispness of wine
+
 Residual Sugar : amonunt of sugar left in wine after fermentation. Measured in in g/dm3
+
 Chlorides : amount of Sodium Cholride (salt) in wine. Measured in g/dm3
+
 Free Sulfur Dioxide : Amount of SO2 in free form. Measured in mg/dm3
-Total Sulfur Dioxide : Total Amount of SO2. Too much SO2 can lead to a pungent smell. SO2 acts as antioxidant and antimicrobial agent.
+
+Total Sulfur Dioxide : Total Amount of SO2. Too much SO2 can lead to a pungent smell. SO2 acts as antioxidant and antimicrobial agent
+
 Density : Density of Wine in g/dm3
-pH : pH of Wine on a scale of 0-14 . 0 means highly Acidic, while 14 means highly basic.
-Sulphates : Amount of Potassium Sulphate in wine, measured in g/dm3.Contributes to the formation of SO2.
+
+pH : pH of Wine on a scale of 0-14 . 0 means highly Acidic, while 14 means highly basic
+
+Sulphates : Amount of Potassium Sulphate in wine, measured in g/dm3.Contributes to the formation of SO2
+
 Alcohol : alcohol content in wine (in terms of % volume)
+
 Quality : Wine Quality graded on a scale of 1 - 10 (Higher is better)
