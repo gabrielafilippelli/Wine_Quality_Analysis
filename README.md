@@ -1,7 +1,6 @@
 # Wine Quality Data Analysis
-    "Download Link : https://archive.ics.uci.edu/ml/datasets/wine+quality  \n",
-    "\n",
-    "Citation : P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009."
+- Download Link : https://archive.ics.uci.edu/ml/datasets/wine+quality
+- Citation : P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009."
  # Questions that we can try to answer?
 - Which factor or combination of factors affect the quality of Red Wine/White Wine?
 - Do the different types of wines (red or white) have different factors affecting quality?
