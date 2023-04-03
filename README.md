@@ -7,7 +7,7 @@
 - Is there any interesting trends that exist in other columns besides Quality?
 # Columns Description
 - **Fixed Acidity**: Amount of Tartaric Acid in wine, measured in g/dm3
-- **Volatile Acidity **: Amount of Acetic Acid in wine, measured in g/dm3
+- **Volatile Acidity**: Amount of Acetic Acid in wine, measured in g/dm3
 - **Citric Acid**: Amount of citric acid in wine in g/dm3. Contributes to crispness of wine
 - **Residual Sugar**: amonunt of sugar left in wine after fermentation. Measured in in g/dm3
 - **Chlorides**: amount of Sodium Cholride (salt) in wine. Measured in g/dm3
